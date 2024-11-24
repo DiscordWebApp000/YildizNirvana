@@ -159,10 +159,10 @@ export const Footer = () => {
             href="https://www.linkedin.com/in/umid-rzayev-17563520a/"
             className="text-primary transition-all border-primary hover:border-b-2"
           >
-            Umid
+            UmidDev
           </a>
         </h3>
       </section>
     </footer>
-  );
+  );v
 };
