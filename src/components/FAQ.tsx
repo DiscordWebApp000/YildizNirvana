@@ -72,7 +72,7 @@ export const FAQ = () => {
       </Accordion>
 
       <h3 className="font-medium mt-4">
-        Still have questions?{" "}
+        Hala Sorunuzmu Var?{" "}
         <a
           rel="noreferrer noopener"
           href="#newsletter"

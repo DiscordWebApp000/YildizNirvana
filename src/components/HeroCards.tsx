@@ -109,7 +109,7 @@ export const HeroCards = () => {
 
       {/* Pricing */}
       <Card className="absolute top-[150px] left-[50px] w-72  drop-shadow-xl shadow-black/10 dark:shadow-white/10">
-        <CardHeader>
+        {/* <CardHeader>
           <CardTitle className="flex item-center justify-between">
             Free
             <Badge
@@ -131,13 +131,13 @@ export const HeroCards = () => {
 
         <CardContent>
           <Button className="w-full">Start Free Trial</Button>
-        </CardContent>
+        </CardContent> */}
 
         <hr className="w-4/5 m-auto mb-4" />
 
         <CardFooter className="flex">
           <div className="space-y-4">
-            {["4 Team member", "4 GB Storage", "Upto 6 pages"].map(
+            {["Hızlı", "Kaliteli", "İnteraktif" , "Düzenli" , "Çok Oyunculu"].map(
               (benefit: string) => (
                 <span
                   key={benefit}
