@@ -13,7 +13,7 @@ export const Footer = () => {
             className="font-bold text-xl flex"
           >
             <LogoIcon />
-            Yildiz A Nirvana
+            NEE ORİGİN PULS STÜDYO
           </a>
         </div>
 
@@ -152,7 +152,7 @@ export const Footer = () => {
 
       <section className="container pb-14 text-center">
         <h3>
-          &copy; 2024 Yildiz A Nirvana{" "}
+          &copy; 2024 NEE ORİGİN PULS STÜDYO{" "}
           <a
             rel="noreferrer noopener"
             target="_blank"

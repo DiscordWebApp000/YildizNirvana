@@ -17,14 +17,14 @@ export const Hero = () => {
           {''}
           <h2 className="inline">
             <span className="inline bg-gradient-to-r from-[#61DAFB] via-[#1fc0f1] to-[#03a3d7] text-transparent bg-clip-text">
-              Yıldız A Nirvana
+            NEE ORİGİN PULS STÜDYO
             </span>{" "}
             
           </h2>
         </main>
 
         <p className="text-xl text-muted-foreground md:w-10/12 mx-auto lg:mx-0">
-        Yıldız A Nirvana, yenilikçi oyunlarla eğlenceye yön veriyor. Tutkuyu paylaşmak için buradayız!
+        NEE ORİGİN PULS STÜDYO, yenilikçi oyunlarla eğlenceye yön veriyor. Tutkuyu paylaşmak için buradayız!
         </p>
 
         <div className="space-y-4 md:space-y-0 md:space-x-4">

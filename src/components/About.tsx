@@ -23,7 +23,7 @@ export const About = () => {
                 Kimiz ?
               </h2>
               <p className="text-xl text-muted-foreground mt-4">
-              Yildiz A Nirvana, ilham veren ve oyuncuları büyüleyen yenilikçi oyun deneyimleri sunma tutkusuyla yola çıktı. Amacımız, yaratıcılık ve teknolojinin sınırlarını zorlayarak kalıcı bir etki bırakacak oyunlar geliştirmektir.
+              NEE ORİGİN PULS STÜDYO, ilham veren ve oyuncuları büyüleyen yenilikçi oyun deneyimleri sunma tutkusuyla yola çıktı. Amacımız, yaratıcılık ve teknolojinin sınırlarını zorlayarak kalıcı bir etki bırakacak oyunlar geliştirmektir.
 
               Oyuncu odaklı yaklaşımımız ve mükemmeliyete olan bağlılığımızla, oyun dünyasının geleceğini şekillendirmeyi hedefliyoruz. Bu heyecan verici yolculukta bize katılın ve oyun sanatının en iyisini keşfedin!
               </p>
